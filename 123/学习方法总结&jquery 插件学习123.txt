@@ -1,0 +1,38 @@
+
+越来越了解到归纳 总结的 重要性  
+归纳和总结能让你的办公效率得到最大化的提高
+多去看一些优秀的人做事的方法 同样可以总结到自己的一些做事效率不高行为的提升 这是非常有效的一种的方式
+
+打字也不要什么都打全拼 根据实际情况打字 
+可以是智能型打字 这也是一种训练的提升  
+总而言之 还是那句话  总结归纳的重要性 可见一斑
+------------ 上面都是在说总结归纳 下面来点实质性的东西了 上干货了 --------------
+
+测试案例
+Machine 性能的优化 整顿机器 让自己的机器的性能跑的最大话 
+ $('#banner,#warp').find('')
+
+
+？？sublime  配对提示 怎么设置
+
+你要知道 有三种最基本的 选择器  id选择器  class选择器 属性选择器 选择器
+
+
+$(document).ready(function(){
+
+})
+
+$(function(){
+	
+})
+
+
+-----
+http://my.oschina.net/duplicatedcode/blog/138271  --enxtend 最简单写法
+http://blog.sina.com.cn/s/blog_4a60ba9c01014cx5.html  ---jquery 插件的一种常规写法
+
+http://www.jb51.net/article/43697.htm  --插件学习  $.extend(defaults,options) 方式
+
+
+
+
