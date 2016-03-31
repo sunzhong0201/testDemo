@@ -1,0 +1,27 @@
+
+ $('#banner,#warp').find('')
+
+
+？？sublime  配对提示 怎么设置
+
+你要知道 有三种最基本的 选择器  id选择器  class选择器 属性选择器 选择器
+
+
+$(document).ready(function(){
+
+})
+
+$(function(){
+	
+})
+
+
+-----
+http://my.oschina.net/duplicatedcode/blog/138271  --enxtend 最简单写法
+http://blog.sina.com.cn/s/blog_4a60ba9c01014cx5.html  ---jquery 插件的一种常规写法
+
+http://www.jb51.net/article/43697.htm  --插件学习  $.extend(defaults,options) 方式
+
+
+
+
